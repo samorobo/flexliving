@@ -1,0 +1,99 @@
+[
+  {
+    "id": "2b-n1-a-29-shoreditch-heights",
+    "name": "2B N1 A - 29 Shoreditch Heights",
+    "slug": "shoreditch-heights-2b",
+    "title": "Modern 2-Bedroom in Shoreditch Heights",
+    "description": "Experience luxury living in the heart of East London's vibrant Shoreditch neighborhood. This stunning 2-bedroom apartment features contemporary design, floor-to-ceiling windows, and premium amenities. Perfect for both short and extended stays.",
+    "location": "Shoreditch, London",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "guests": 4,
+    "price": 185,
+    "currency": "GBP",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800"
+    ],
+    "amenities": ["WiFi", "Kitchen", "Washer", "TV", "Gym", "Concierge"],
+    "coordinates": {"lat": 51.5287718, "lng": -0.0877354}
+  },
+  {
+    "id": "studio-flat-camden-lock",
+    "name": "Studio Flat - Camden Lock",
+    "slug": "camden-lock-studio",
+    "title": "Cozy Studio near Camden Market",
+    "description": "A charming studio apartment located steps away from the famous Camden Market. Ideal for solo travelers or couples seeking an authentic London experience in one of the city's most eclectic neighborhoods.",
+    "location": "Camden, London",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "guests": 2,
+    "price": 95,
+    "currency": "GBP",
+    "images": [
+      "https://images.unsplash.com/photo-1502672023488-70e25813eb80?w=800",
+      "https://images.unsplash.com/photo-1556020685-ae41abfc9365?w=800"
+    ],
+    "amenities": ["WiFi", "Kitchenette", "TV", "Heating"],
+    "coordinates": {"lat": 51.5416, "lng": -0.1457}
+  },
+  {
+    "id": "luxury-penthouse-tower-bridge",
+    "name": "Luxury Penthouse - Tower Bridge",
+    "slug": "tower-bridge-penthouse",
+    "title": "Stunning Penthouse with Bridge Views",
+    "description": "Indulge in unparalleled luxury at this exquisite penthouse offering breathtaking views of Tower Bridge and the Thames. Features include a private rooftop terrace, state-of-the-art kitchen, and designer furnishings throughout.",
+    "location": "Tower Bridge, London",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "guests": 6,
+    "price": 350,
+    "currency": "GBP",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800"
+    ],
+    "amenities": ["WiFi", "Kitchen", "Washer", "TV", "Gym", "Pool", "Rooftop", "Parking"],
+    "coordinates": {"lat": 51.5055, "lng": -0.0754}
+  },
+  {
+    "id": "1b-apartment-kings-cross",
+    "name": "1B Apartment - King's Cross",
+    "slug": "kings-cross-1b",
+    "title": "Contemporary 1-Bed near King's Cross",
+    "description": "Modern one-bedroom apartment in the heart of King's Cross, one of London's most connected areas. Perfect for business travelers with easy access to major transport links and Google's HQ.",
+    "location": "King's Cross, London",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "guests": 2,
+    "price": 125,
+    "currency": "GBP",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800",
+      "https://images.unsplash.com/photo-1560185127-6a859a50b33b?w=800"
+    ],
+    "amenities": ["WiFi", "Kitchen", "Washer", "TV", "Desk"],
+    "coordinates": {"lat": 51.5308, "lng": -0.1238}
+  },
+  {
+    "id": "modern-loft-notting-hill",
+    "name": "Modern Loft - Notting Hill",
+    "slug": "notting-hill-loft",
+    "title": "Stylish Loft in Notting Hill",
+    "description": "A beautifully designed loft apartment in the iconic Notting Hill neighborhood. Featuring high ceilings, exposed brick, and a perfect blend of historic charm and modern comfort.",
+    "location": "Notting Hill, London",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "guests": 4,
+    "price": 165,
+    "currency": "GBP",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800"
+    ],
+    "amenities": ["WiFi", "Kitchen", "Washer", "TV", "Garden"],
+    "coordinates": {"lat": 51.5074, "lng": -0.1953}
+  }
+]

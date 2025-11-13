@@ -1,0 +1,195 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 1001,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Absolutely stunning property in the heart of Shoreditch! The apartment was immaculate, modern, and had everything we needed. The host was incredibly responsive and helpful. Would definitely recommend and stay again!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 9}
+      ],
+      "submittedAt": "2024-11-05 14:30:00",
+      "guestName": "Emma Thompson",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channelName": "Airbnb",
+      "isApproved": false,
+      "isVisible": false
+    },
+    {
+      "id": 1002,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Great location near Camden Lock. The studio was cozy and had a nice view. Only minor issue was the Wi-Fi connection could be stronger. Overall, a pleasant stay!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 7}
+      ],
+      "submittedAt": "2024-10-28 09:15:00",
+      "guestName": "James Wilson",
+      "listingName": "Studio Flat - Camden Lock",
+      "channelName": "Booking.com",
+      "isApproved": true,
+      "isVisible": true
+    },
+    {
+      "id": 1003,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Beautiful apartment with amazing amenities. The rooftop terrace was a highlight! Perfect for our business trip. Highly recommended for corporate stays.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 8}
+      ],
+      "submittedAt": "2024-10-22 16:45:00",
+      "guestName": "Sarah Chen",
+      "listingName": "Luxury Penthouse - Tower Bridge",
+      "channelName": "Direct",
+      "isApproved": true,
+      "isVisible": true
+    },
+    {
+      "id": 1004,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Decent place for the price. Location was good but the apartment could use some updates. The bed was comfortable and check-in was easy.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 7},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 6}
+      ],
+      "submittedAt": "2024-10-18 11:20:00",
+      "guestName": "Michael Brown",
+      "listingName": "1B Apartment - King's Cross",
+      "channelName": "Vrbo",
+      "isApproved": false,
+      "isVisible": false
+    },
+    {
+      "id": 1005,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "Exceptional stay from start to finish! The property exceeded all expectations. Spotlessly clean, beautifully decorated, and the location couldn't be better. The host went above and beyond to ensure we had everything we needed.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 10}
+      ],
+      "submittedAt": "2024-10-15 19:30:00",
+      "guestName": "Lisa Rodriguez",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channelName": "Airbnb",
+      "isApproved": true,
+      "isVisible": true
+    },
+    {
+      "id": 1006,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 6,
+      "publicReview": "The property was okay. Some cleanliness issues upon arrival but host addressed them quickly. Good location near the tube station.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 5},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 8},
+        {"category": "value", "rating": 5}
+      ],
+      "submittedAt": "2024-10-10 08:00:00",
+      "guestName": "David Kim",
+      "listingName": "Studio Flat - Camden Lock",
+      "channelName": "Booking.com",
+      "isApproved": false,
+      "isVisible": false
+    },
+    {
+      "id": 1007,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 9,
+      "publicReview": "Wonderful experience! The apartment was exactly as described. Loved the modern design and all the thoughtful touches. Perfect for a weekend getaway.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 9},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 8}
+      ],
+      "submittedAt": "2024-10-05 15:45:00",
+      "guestName": "Rachel Green",
+      "listingName": "Modern Loft - Notting Hill",
+      "channelName": "Airbnb",
+      "isApproved": true,
+      "isVisible": true
+    },
+    {
+      "id": 1008,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 8,
+      "publicReview": "Great stay overall. The property was clean and well-maintained. Minor noise from the street at night but nothing too disruptive. Would stay again!",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 9},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 9},
+        {"category": "value", "rating": 7}
+      ],
+      "submittedAt": "2024-09-30 12:30:00",
+      "guestName": "Tom Anderson",
+      "listingName": "1B Apartment - King's Cross",
+      "channelName": "Direct",
+      "isApproved": true,
+      "isVisible": true
+    },
+    {
+      "id": 1009,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 10,
+      "publicReview": "This is how short-term rentals should be done! Everything was perfect - from the seamless check-in to the pristine condition of the apartment. The location is unbeatable and the amenities are top-notch.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 10},
+        {"category": "communication", "rating": 10},
+        {"category": "location", "rating": 10},
+        {"category": "value", "rating": 9}
+      ],
+      "submittedAt": "2024-09-25 17:00:00",
+      "guestName": "Amanda Foster",
+      "listingName": "Luxury Penthouse - Tower Bridge",
+      "channelName": "Booking.com",
+      "isApproved": true,
+      "isVisible": true
+    },
+    {
+      "id": 1010,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 7,
+      "publicReview": "Nice apartment in a good area. A few maintenance issues but nothing major. The host was quick to respond to our queries.",
+      "reviewCategory": [
+        {"category": "cleanliness", "rating": 8},
+        {"category": "communication", "rating": 8},
+        {"category": "location", "rating": 8},
+        {"category": "value", "rating": 6}
+      ],
+      "submittedAt": "2024-09-20 10:15:00",
+      "guestName": "Chris Martinez",
+      "listingName": "Modern Loft - Notting Hill",
+      "channelName": "Vrbo",
+      "isApproved": false,
+      "isVisible": false
+    }
+  ]
+}

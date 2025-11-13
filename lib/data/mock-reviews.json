@@ -1,0 +1,53 @@
+[
+  {
+    "id": 7453,
+    "type": "host-to-guest",
+    "status": "published",
+    "listingId": "2b-n1-a-29-shoreditch-heights",
+    "publicReview": "Great experience staying at this property. The location was perfect and the amenities were excellent.",
+    "guestName": "Alex Johnson",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 5 },
+      { "category": "communication", "rating": 4 },
+      { "category": "check-in", "rating": 5 },
+      { "category": "accuracy", "rating": 4 },
+      { "category": "location", "rating": 5 },
+      { "category": "value", "rating": 4 }
+    ],
+    "submittedAt": "2023-10-15T14:30:00Z"
+  },
+  {
+    "id": 7454,
+    "type": "guest-to-host",
+    "status": "published",
+    "listingId": "2b-n1-a-29-shoreditch-heights",
+    "publicReview": "The apartment was nice but the wifi was quite slow during our stay.",
+    "guestName": "Sam Wilson",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 4 },
+      { "category": "communication", "rating": 3 },
+      { "category": "check-in", "rating": 5 },
+      { "category": "accuracy", "rating": 4 },
+      { "category": "location", "rating": 5 },
+      { "category": "value", "rating": 3 }
+    ],
+    "submittedAt": "2023-10-10T09:15:00Z"
+  },
+  {
+    "id": 7455,
+    "type": "guest-to-host",
+    "status": "pending",
+    "listingId": "2b-n1-a-29-shoreditch-heights",
+    "publicReview": "Amazing place! Would definitely stay here again. The host was very responsive.",
+    "guestName": "Taylor Smith",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 5 },
+      { "category": "communication", "rating": 5 },
+      { "category": "check-in", "rating": 5 },
+      { "category": "accuracy", "rating": 5 },
+      { "category": "location", "rating": 5 },
+      { "category": "value", "rating": 5 }
+    ],
+    "submittedAt": "2023-10-20T16:45:00Z"
+  }
+]

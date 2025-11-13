@@ -1,13 +1,19 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { reviewStore } from '@/lib/reviewStore';
 
+interface RouteParams {
+  params: {
+    id: string;
+  };
+}
+
 export async function PATCH(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  context: RouteParams
 ) {
   try {
     const body = await request.json();
-    const reviewId = parseInt(params.id);
+    const reviewId = parseInt(context.params.id);
 
     const updatedReview = reviewStore.update(reviewId, body);
 
@@ -35,8 +41,9 @@ export async function PATCH(
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  context: RouteParams
 ) {
+  const { params } = context;
   try {
     const reviewId = parseInt(params.id);
     const review = reviewStore.getById(reviewId);
